@@ -1,3 +1,5 @@
+# Changes a text file to become unreadable
+
 inputx = input('Render what (txt only) file?: ')
 
 file=open(inputx, "r")
