@@ -1,3 +1,0 @@
-Godmode.{ED7BA470-8E54-465E-825C-99712043E01C1123}
-Hey, guys, this is my encryption program.
-I use this when i dont want people to see where im going
